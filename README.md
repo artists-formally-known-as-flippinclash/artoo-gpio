@@ -1,3 +1,7 @@
+:wave: This was a hack for Clash of the Coders at Big Nerd Ranch. Check out the extraction https://github.com/iamvery/artoo-neopixel :wave:
+
+---
+
 # Artoo Drivers For GPIO Devices
 
 This repository contains the Artoo (http://artoo.io/) standard drivers for analog, digital, PWM, and servo devices.
